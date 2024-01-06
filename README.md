@@ -39,12 +39,6 @@ The system includes two roles: Admin and Users.
    ```bash
    git clone https://github.com/your-username/news-portal-project.git
 
-### Screenshots
-
-![Admin Dashboard](images/adminnewspage.png)
-
-![Admin Dashboard](Screenshot/dashboard2.png)
-
 ### Usage
 
 1. Access the application and create an account.
