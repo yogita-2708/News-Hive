@@ -41,7 +41,7 @@ The system includes two roles: Admin and Users.
 
 ### Screenshots
 
-![Admin Dashboard](Screenshot/adminnewspage.png)
+![Admin Dashboard](images/adminnewspage.png)
 
 ![Admin Dashboard](Screenshot/dashboard2.png)
 
