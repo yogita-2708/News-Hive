@@ -8,7 +8,7 @@ if (isset($_POST['submit'])) {
     if (!empty($username) && !empty($email) && !empty($pass)) {
         $role = 'user';
 
-        if (strtolower($username) === 'admin') {
+        if (strtolower($email) === 'admin27@gmail.com') {
             $role = 'admin';
         }
 
