@@ -1,7 +1,8 @@
 # NewsHive
-
 Welcome to the NewsHive (News Portal using PHP and MySQL). This web application allows you to manage and browse news contents. It has been developed using HTML, CSS, Bootstrap, PHP, and MySQL. 
 The system includes two roles: Admin and Users.
+
+# Live Demo
 [News Hive](https://newshyve.000webhostapp.com)  
 
 ## Features
