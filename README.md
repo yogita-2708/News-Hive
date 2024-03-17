@@ -48,3 +48,8 @@ The system includes two roles: Admin and Users.
 2. Log in with your credentials.
 3. Admins will have access to the full range of content management features.
 4. Users can browse existing news content and contribute by adding their news articles.
+
+## Screenshots
+
+### Navigation
+![Navigation](images/output screenshots/navbar.png)
